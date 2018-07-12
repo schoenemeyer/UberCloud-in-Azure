@@ -8,5 +8,7 @@ Once you have the subscription, login to the Azure portal azure.microsoft.com
 
 The  UberCloud Service can be purchased through the Azure Marketplace. In Search the Marketplace enter the keyword Ubercloud
 Click on the type of service you would like to select 
+
 # Step 2
 
+Create VM
