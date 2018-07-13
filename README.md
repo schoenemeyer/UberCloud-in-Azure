@@ -20,7 +20,7 @@ Create and configure VM where you want to run the UberCloud Service
 
 # Step 3
 
-Running the Application
+Running the Application: Once you VM is started, 
 
 # Step 4
 
