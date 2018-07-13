@@ -8,9 +8,9 @@ Once you have the subscription, login to the Azure portal azure.microsoft.com
 # Step 1
 
 The  UberCloud Service can be purchased through the Azure Marketplace. In Search the Marketplace enter the keyword Ubercloud
-Click on the type of service you would like to select 
+Click on the type of service you would like to select, for example STAR-CCM+ v12 as an example.
 
-<img src="https://github.com/schoenemeyer/UberCloud-in-Azure/blob/master/ubercloudmp.JPG" width="412"> <img src="https://github.com/schoenemeyer/UberCloud-in-Azure/blob/master/ubercloudserv.JPG" width="222">
+<img src="https://github.com/schoenemeyer/UberCloud-in-Azure/blob/master/ubercloudmp.JPG" width="412"> <img src="https://github.com/schoenemeyer/UberCloud-in-Azure/blob/master/ubercloudserv.JPG" width="232">
 
 
 # Step 2
