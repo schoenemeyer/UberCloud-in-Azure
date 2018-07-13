@@ -11,8 +11,7 @@ The  UberCloud Service can be purchased through the Azure Marketplace. In Search
 Click on the type of service you would like to select 
 
 <img src="https://github.com/schoenemeyer/UberCloud-in-Azure/blob/master/ubercloudmp.JPG" width="352">
-<img src="https://github.com/schoenemeyer/UberCloud-in-Azure/blob/master/ubercloudserv.JPG" width="352">
-
+<img src="https://github.com/schoenemeyer/UberCloud-in-Azure/blob/master/ubercloudserv.JPG" width="262">
 
 
 # Step 2
