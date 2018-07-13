@@ -5,17 +5,18 @@ You will need an Azure account (subscription) for using Microsoft Azure. For thi
 
 Once you have the subscription, login to the Azure portal azure.microsoft.com 
 
-# Step 1
+# Step 1 (Azure Portal)
 
 The  UberCloud Service can be purchased through the Azure Marketplace. In Search the Marketplace enter the keyword Ubercloud
 Click on the type of service you would like to select, for example STAR-CCM+ v12 as an example.
 
-<img src="https://github.com/schoenemeyer/UberCloud-in-Azure/blob/master/ubercloudmp.JPG" width="412"> <img src="https://github.com/schoenemeyer/UberCloud-in-Azure/blob/master/ubercloudserv.JPG" width="232">
+<img src="https://github.com/schoenemeyer/UberCloud-in-Azure/blob/master/ubercloudmp.JPG" width="412"> <img src="https://github.com/schoenemeyer/UberCloud-in-Azure/blob/master/ubercloudserv.JPG" width="225">
 
+Also Support for Power on Demand (PoD) licensing is provided.
 
-# Step 2
+# Step 2 (Azure Portal)
 
-Create VM 
+Create and configure VM where you want to run the UberCloud Service
 
 # Step 3
 
