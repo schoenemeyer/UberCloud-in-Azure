@@ -5,7 +5,7 @@ You will need an Azure account (subscription) for using Microsoft Azure. For thi
 
 Once you have the subscription, login to the Azure portal azure.microsoft.com 
 
-# Step 1 (Azure Portal)
+## Step 1 (Azure Portal)
 
 The  UberCloud Service can be purchased through the Azure Marketplace. In Search the Marketplace enter the keyword Ubercloud
 Click on the type of service you would like to select, for example STAR-CCM+ v12 as an example.
@@ -14,22 +14,24 @@ Click on the type of service you would like to select, for example STAR-CCM+ v12
 
 Also Support for Power on Demand (PoD) licensing is provided.
 
-# Step 2 (Azure Portal)
+## Step 2 (Azure Portal)
 
 Create and configure VM where you want to run the UberCloud Service
 
-# Step 3
+## Step 3 (Acess UberCloud Service)
 
-Running the Application: Once you VM is started, 
+To access the UberCloud service, find the “Public IP Address” of the VM on the “Running Virtual Machine” page. Copy this IP Address in full and paste the IP Address into your browser in a new tab and go to this IP Address. You will land on the management page for the UberCloud service. Enter your email address and click on the “Submit” button to receive instructions on how to access the UberCloud service through your browser.
+Check your email inbox for instructions on how to use the UberCloud service. Keep this email for future reference and do not share it with others for the privacy of your data. Look for the password and copy it. Right below the password is the “Login” button, which will enable you to connect to the UberCloud service running in your new VM.
+With the click on the Login button you will land on the login page of the remote desktop connection to the UberCloud service. Look for the password box and paste the password you’ve received with the instructions email. You will see the desktop of the UberCloud service using a remote desktop connection through your browser.
 
-# Step 4
+## Step 4 (Getting familiar with UberCloud Service)
 
-Tutorials
+UberCloud services contain an “Examples” desktop shortcut. Tutorials provide a great opportunity to discover how the UberCloud service works. Double click on the “Examples” shortcut to access sample data files and instructions on how to run them.
 
-# Step 5
+## Step 5
 
-Shutting down the VM 
+If your simulation is finished, you can shutdown the VM. A stopped VM’s preserve the files which have been saved and incur storage charges, however, you will not be charged for compute usage. Before deleting the VM make sure you copy all your data files. Please remember that this step cannot be reversed and all the data you have in the VM and the UberCloud service will be deleted.
 
-# Contacts
+## Contacts
 
-
+thomas.schoenemeyer@microsoft.com
