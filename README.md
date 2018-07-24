@@ -18,7 +18,7 @@ Also Support for Power on Demand (PoD) licensing is provided.
 
 Create and configure VM where you want to run the UberCloud Service
 
-## Step 3 (Acess UberCloud Service)
+## Step 3 (Access UberCloud Service)
 
 To access the UberCloud service, find the “Public IP Address” of the VM on the “Running Virtual Machine” page. Copy this IP Address in full and paste the IP Address into your browser in a new tab and go to this IP Address. You will land on the management page for the UberCloud service. Enter your email address and click on the “Submit” button to receive instructions on how to access the UberCloud service through your browser.
 Check your email inbox for instructions on how to use the UberCloud service. Keep this email for future reference and do not share it with others for the privacy of your data. Look for the password and copy it. Right below the password is the “Login” button, which will enable you to connect to the UberCloud service running in your new VM.
@@ -28,7 +28,7 @@ With the click on the Login button you will land on the login page of the remote
 
 UberCloud services contain an “Examples” desktop shortcut. Tutorials provide a great opportunity to discover how the UberCloud service works. Double click on the “Examples” shortcut to access sample data files and instructions on how to run them.
 
-## Step 5
+## Step 5 (Shutdown or delete)
 
 If your simulation is finished, you can shutdown the VM. A stopped VM’s preserve the files which have been saved and incur storage charges, however, you will not be charged for compute usage. Before deleting the VM make sure you copy all your data files. Please remember that this step cannot be reversed and all the data you have in the VM and the UberCloud service will be deleted.
 
