@@ -35,3 +35,10 @@ If your simulation is finished, you can shutdown the VM. A stopped VM’s preser
 ## Questions
 please write to 
 thomas.schoenemeyer@microsoft.com
+
+More news
+https://community.theubercloud.com/microsoft-azure-ubercloud-exchange-marketplace-products-start-trainings/
+
+
+
+
