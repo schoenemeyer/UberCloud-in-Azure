@@ -32,6 +32,6 @@ UberCloud services contain an “Examples” desktop shortcut. Tutorials provide
 
 If your simulation is finished, you can shutdown the VM. A stopped VM’s preserve the files which have been saved and incur storage charges, however, you will not be charged for compute usage. Before deleting the VM make sure you copy all your data files. Please remember that this step cannot be reversed and all the data you have in the VM and the UberCloud service will be deleted.
 
-## Contacts
-
+## Questions
+please write to 
 thomas.schoenemeyer@microsoft.com
