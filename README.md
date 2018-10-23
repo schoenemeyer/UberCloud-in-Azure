@@ -1,14 +1,15 @@
 # UberCloud-in-Azure <img src="https://github.com/schoenemeyer/UberCloud-in-Azure/blob/master/Ubercloud.jpg" width="252">
 This document will guide you how to get an UberCloud account and to run HPC applications in Azure.
 
-You will need an Azure account (subscription) for using Microsoft Azure. For this project you can use an existing account or you can also register for a free trial account on Azure, which is valid for 30 days. The free account can be activated from this website https://azure.microsoft.com/en-us/offers/ms-azr-0044p/
+You will need an Azure account (subscription) for using Microsoft Azure. For this project you can use an existing account or you can also register for a free trial account on Azure, which is valid for 30 days. The free account can be activated within a few minutes, please visit this website https://azure.microsoft.com/en-us/offers/ms-azr-0044p/
 
-Once you have the Microsoft Azure subscription, login to the Azure portal azure.microsoft.com 
+Once you have the Microsoft Azure subscription, login to the Azure portal azure.microsoft.com and follow the steps below:
 
 ## Step 1 (Azure Portal)
 
 The  UberCloud Service can be purchased through the Azure Marketplace. In Search the Marketplace enter the keyword Ubercloud
 Click on the type of service you would like to select, for example STAR-CCM+ v12 as an example.
+
 
  <img src="https://github.com/schoenemeyer/UberCloud-in-Azure/blob/master/ubercloudserv.JPG" width="225"> <img src="https://github.com/schoenemeyer/UberCloud-in-Azure/blob/master/ubercloudmp.JPG" width="412"> 
 
