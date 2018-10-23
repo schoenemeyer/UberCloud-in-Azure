@@ -28,7 +28,8 @@ UberCloud services contain an “Examples” desktop shortcut. Tutorials provide
 
 ## Step 5 (Shutdown or delete)
 
-If your simulation is finished, you can shutdown the VM. A stopped VM’s preserve the files which have been saved and incur storage charges, however, you will not be charged for compute usage. Before deleting the VM make sure you copy all your data files. Please remember that this step cannot be reversed and all the data you have in the VM and the UberCloud service will be deleted.
+If your simulation is finished, you can shutdown the VM. Stopped VM’s preserve the files which have been saved and incur storage charges, however, you will not be charged for compute usage. Before deleting the VM make sure you copy all your data files. Azure Storage (e.g. Blob Storage) is a very reliable and cost-effective solution to store date in Azure. Microsoft also offers the Storage Explorer, a very useful tool to keep overview of your data https://azure.microsoft.com/en-us/features/storage-explorer/. The tool is free and is available for WIndows, Linux and MacOS.
+When deleting a VM, please remember that this step cannot be reversed and all the data you have in the VM and the UberCloud service will be deleted.
 
 ## Questions
 If you have question about right-sized Azure VMs, please write to 
