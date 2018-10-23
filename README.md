@@ -11,7 +11,6 @@ The  UberCloud Service can be purchased through the Azure Marketplace. Please cl
 
  <img src="https://github.com/schoenemeyer/UberCloud-in-Azure/blob/master/ubercloudserv.JPG" width="225"> <img src="https://github.com/schoenemeyer/UberCloud-in-Azure/blob/master/ubercloudmp.JPG" width="412"> 
 
-Also Support for Power on Demand (PoD) licensing is provided.
 
 ## Step 2 (Azure Portal)
 
