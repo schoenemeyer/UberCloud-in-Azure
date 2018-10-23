@@ -1,5 +1,5 @@
 # UberCloud-in-Azure <img src="https://github.com/schoenemeyer/UberCloud-in-Azure/blob/master/Ubercloud.jpg" width="252">
-This document will guide you how to get an UberCloud account and to run HPC applications in Azure.
+This document will guide you how to get an UberCloud account and to run HPC applications in Azure. UberCloud offers SaaS for engineers and lets you run interactive analyses in Azure. 
 
 You will need an Azure account (subscription) for using Microsoft Azure. For this project you can use an existing account or you can also register for a free trial account on Azure, which is valid for 30 days. The free account can be activated within a few minutes, please visit this website https://azure.microsoft.com/en-us/offers/ms-azr-0044p/
 
@@ -7,9 +7,7 @@ Once you have the Microsoft Azure subscription, login to the Azure portal azure.
 
 ## Step 1 (Azure Portal)
 
-The  UberCloud Service can be purchased through the Azure Marketplace. In Search the Marketplace enter the keyword Ubercloud
-Click on the type of service you would like to select, for example STAR-CCM+ v12 as an example.
-
+The  UberCloud Service can be purchased through the Azure Marketplace. Please click on "create resource" in the left bar. Enter  Ubercloud in the Search Field and click on the type of service you would like to select, for example STAR-CCM+ v12.
 
  <img src="https://github.com/schoenemeyer/UberCloud-in-Azure/blob/master/ubercloudserv.JPG" width="225"> <img src="https://github.com/schoenemeyer/UberCloud-in-Azure/blob/master/ubercloudmp.JPG" width="412"> 
 
@@ -17,7 +15,7 @@ Also Support for Power on Demand (PoD) licensing is provided.
 
 ## Step 2 (Azure Portal)
 
-Create and configure VM where you want to run the UberCloud Service
+Create and configure the Virtual Machine (VM)  where you want to run your application using the UberCloud Service. You will have to specify the name for the VM, the disk type, the username and the size of the VM such main memory and number of cores. At the end click on the "Purchase" button. After a few minutes the VM will be available on your Azure dashboard.
 
 ## Step 3 (Access UberCloud Service)
 
@@ -34,7 +32,7 @@ UberCloud services contain an “Examples” desktop shortcut. Tutorials provide
 If your simulation is finished, you can shutdown the VM. A stopped VM’s preserve the files which have been saved and incur storage charges, however, you will not be charged for compute usage. Before deleting the VM make sure you copy all your data files. Please remember that this step cannot be reversed and all the data you have in the VM and the UberCloud service will be deleted.
 
 ## Questions
-please write to 
+If you have question about right-sized Azure VMs, please write to 
 thomas.schoenemeyer@microsoft.com
 
 More news
