@@ -3,6 +3,9 @@ This document will guide you how to get an UberCloud account and to run HPC appl
 
 You will need an Azure account (subscription) for using Microsoft Azure. For this project you can use an existing account or you can also register for a free trial account on Azure, which is valid for 30 days. The free account can be activated within a few minutes, please visit this website https://azure.microsoft.com/en-us/offers/ms-azr-0044p/
 
+Be aware that with a free account you are able to find virtual machines with up to 4 cores. VM types with more than 4 cores such as H16 will not appear. If you wish to evaluate VMs with higher core counts or VMs with Nvidia GPUs, please contact Microsoft or UberCloud. 
+As a best practice, please click on “show in dashboard” when you create the VM, it will help you to find your VM in seconds. 
+
 Once you have the Microsoft Azure subscription, login to the Azure portal azure.microsoft.com and follow the steps below:
 
 ## Step 1 (Azure Portal)
